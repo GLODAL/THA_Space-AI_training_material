@@ -1,5 +1,5 @@
 # README
-## This repository contains the implementation of the Prithvi model for land use classification using SPOT satellite images.
+## This repository contains the implementation of the Prithvi model for land use classification using SPOT satellite image.
 
 ## Table of Contents
 - Introduction and installation
