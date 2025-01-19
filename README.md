@@ -1,1 +1,1 @@
-# THA_Space-AI_training_material
+# README
