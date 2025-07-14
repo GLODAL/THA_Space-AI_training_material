@@ -1,0 +1,26 @@
+# プログラム案
+## DAY 1 AM
+- Lectures
+    - What is fine-tuning
+    - Fine-tuning with remote sesing
+## DAY 1 PM
+- Lab
+    - Introduciton to cloud-based computing
+    - A simple exmaple of fine-tuning
+## DAY 2 AM
+- Lectures
+    - Issues with the land use layers
+    - Potential solutions for quality control fo LU layers
+## DAY 2 PM
+- Lab
+    - Fine-tuning for the LU layers in practice
+    - Detection of innaccuarte data in the LU layers
+## DAY 3 AM
+- Lectures
+    - Introduction to AWS
+## DAY 3 PM
+- Lectuers
+    - Introductio to on-premise solutions for cloud-computing
+- Buffer of the lab sessions
+## DAY 4
+- Ideation: cloud-native solutions with satellite data operations
